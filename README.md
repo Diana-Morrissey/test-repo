@@ -1,2 +1,2 @@
 # test-repo
-just testing this out.
+website configuration documentation.
